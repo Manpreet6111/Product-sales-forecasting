@@ -19,3 +19,5 @@ Find the details in the follwing files:
 3. Product_sales_forecasting_EDA.ipynb, Exploratory Data Analysis- EDA provides a systematic approach to uncovering trends, detecting outliers, and visualizing relationships within the dataset
 4. Product_sales_forecasting_Hypothesis.ipynb, hypothesis testing allows for testing assumptions about these relationships statistically.
 5. Product_sales_foresting_Model_Selection.ipynb, Machine Learning (ML) modeling in the context of product sales forecasting involves developing predictive algorithms that can accurately forecast future sales based on historical data and various influencing factors.
+6. Insights-and-recommendations.md, find the Insights and Recommendations based on EDA, Hypothesis and ML modeling.
+
